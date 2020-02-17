@@ -1,4 +1,4 @@
-package com.example.gur46707.wheelrotation;
+package com.example.arunyadav.wheelrotation;
 
 import android.widget.Button;
 import android.widget.ImageView;

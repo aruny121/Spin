@@ -1,6 +1,6 @@
-package com.example.gur46707.wheelrotation.Retrofit;
+package com.example.arunyadav.wheelrotation.Retrofit;
 
-import com.example.gur46707.wheelrotation.Model.User;
+import com.example.arunyadav.wheelrotation.Model.User;
 
 import java.util.List;
 

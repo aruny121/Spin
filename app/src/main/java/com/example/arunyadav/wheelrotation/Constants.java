@@ -1,4 +1,4 @@
-package com.example.gur46707.wheelrotation;
+package com.example.arunyadav.wheelrotation;
 
 /**
  * Author - Arun yadav

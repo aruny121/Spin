@@ -1,4 +1,4 @@
-package com.example.gur46707.wheelrotation;
+package com.example.arunyadav.wheelrotation;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.gur46707.wheelrotation", appContext.getPackageName());
+        assertEquals("com.example.arunyadav.wheelrotation", appContext.getPackageName());
     }
 }

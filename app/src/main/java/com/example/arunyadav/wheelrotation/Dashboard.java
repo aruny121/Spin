@@ -1,4 +1,4 @@
-package com.example.gur46707.wheelrotation;
+package com.example.arunyadav.wheelrotation;
 
 import android.support.design.widget.CoordinatorLayout;
 import android.support.v7.app.AppCompatActivity;
@@ -13,9 +13,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.example.gur46707.wheelrotation.Presenter.IPresenter;
-import com.example.gur46707.wheelrotation.Presenter.Presenter;
-import com.example.gur46707.wheelrotation.View.IDashboard;
+import com.example.arunyadav.wheelrotation.Presenter.IPresenter;
+import com.example.arunyadav.wheelrotation.Presenter.Presenter;
+import com.example.arunyadav.wheelrotation.View.IDashboard;
 
 import java.util.Random;
 

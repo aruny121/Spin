@@ -1,4 +1,4 @@
-package com.example.gur46707.wheelrotation.Model;
+package com.example.arunyadav.wheelrotation.Model;
 
 import com.google.gson.annotations.SerializedName;
 
