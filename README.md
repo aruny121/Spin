@@ -1,6 +1,5 @@
 # Spin
 
-# Wheel Rotation
 
 ## Environment
 You need to have:
